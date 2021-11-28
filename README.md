@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first ever project on TOP. With my newly learned information about HMTL, I will try to make a recipe website, for now I won't be doing any design work because I'd like to cement my knowledge of HTML during this project.
